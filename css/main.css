@@ -19,3 +19,7 @@ h1{
 .subtopic:before{
 	content: "> ";
 }
+
+body {
+    margin: 0 auto;
+}
